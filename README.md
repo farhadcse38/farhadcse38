@@ -1,7 +1,7 @@
 
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Farhad+Hossain" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Passionate+Software+QA+Engineer; ""+"" +"")](/)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Passionate+Software+QA+Engineer;""+""+"")](/)
   
   
   <!--
