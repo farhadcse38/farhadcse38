@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=farhadcse38&label=Profile%20views&color=0e75b6&style=flat" alt="farhadcse38" /> </p>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Farhad+Hossain" />
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Farhad+Hossain" />
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Passionate+SQA+Engineer)](/)
 
@@ -24,10 +24,23 @@ Here are some ideas to get you started:
 -->
 
 
-
+  <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadcse38&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcse38&layout=compact&theme=cobalt&hide_border=true" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=farhadcse38&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+-->
+
+ <br/>
+
+<!-- github stats starts here  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadcse38&show_icons=true)
+
+<br/>
 
 
 <h3 align="center">Connect with Me</h3>
