@@ -3,7 +3,7 @@
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Passionate+SQA+Engineer)](/)
 
-
+#### Tools:
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
 ![Apache JMeter Badge](https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat-square)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadcse38&show_icons=true)
 
