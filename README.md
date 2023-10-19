@@ -4,7 +4,6 @@
    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Passionate+SQA+Engineer)](/)
   
 <p>
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
@@ -31,11 +30,11 @@ Here are some ideas to get you started:
 
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=farhadcse38&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadcse38&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcse38&layout=compact&theme=cobalt&hide_border=true" />
 
 <h3 align="center">Connect with Me</h3>
 
