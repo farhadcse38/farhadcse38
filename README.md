@@ -3,7 +3,7 @@
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Passionate+SQA+Engineer)](/)
 
-#### Tools:
+### Tools:
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
 ![Apache JMeter Badge](https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat-square)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 -->
 
  <br/>
-
+ 
+### GitHub Stats:
 <!-- github stats starts here  -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats)
@@ -42,9 +43,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-
-<h3 align="center">Connect with Me</h3>
-
+---
+ <h3 align="center">Connect with Me</h3>
+---
 <p align="center">
    <a href="https://github.com/farhadcse38"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/farhad-hossain-66a834167"><img alt="Github" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
