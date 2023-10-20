@@ -5,24 +5,6 @@
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Passionate+SQA+Engineer)](/)
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Title of the document</title>
-    <style>
-      marquee{
-      font-size: 30px;
-      font-weight: 800;
-      color: #8ebf42;
-      font-family: sans-serif;
-      }
-    </style>
-  </head>
-  <body>
-    <marquee>A scrolling text created with HTML Marquee element.</marquee>
-  </body>
-</html>
-
 ### Tools:
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
 ![Apache JMeter Badge](https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat-square)
