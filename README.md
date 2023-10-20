@@ -5,6 +5,9 @@
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Passionate+SQA+Engineer)](/)
 <marquee>This text will scroll from right to left</marquee>
+
+<marquee direction="up">This text will scroll from bottom to top</marquee>
+
 ### Tools:
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
 ![Apache JMeter Badge](https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat-square)
