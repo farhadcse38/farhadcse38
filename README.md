@@ -4,7 +4,10 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Farhad+Hossain" /></h1>
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Passionate+SQA+Engineer)](/)
-<marquee>This text will scroll from right to left</marquee>
+
+<body>
+    <marquee>A scrolling text created with HTML Marquee element.</marquee>
+  </body>
 
 <marquee direction="up">This text will scroll from bottom to top</marquee>
 
