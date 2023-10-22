@@ -30,8 +30,12 @@ I have completed my Bachelor's degree in Computer Science and Engineering from B
 
  <br/>
  
- ### 📈 GitHub Stats:
-<!-- github stats starts here  -->
+ 
+ 
+ 
+ 
+### 📈 GitHub Stats:
+   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats)
 
