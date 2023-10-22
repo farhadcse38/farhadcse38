@@ -16,9 +16,10 @@ I have completed my Bachelor's degree in Computer Science and Engineering from B
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
 </br>
 
-  - 🔭 I’m currently working on Manual Testing, API Testing and Performance Testing
-  - 🌱 I’m currently learning Database Testing, Web Automation and Mobile Automation
-  - 💬 Ask me about Manual Testing, API Testing and Performace Testing
+
+  - 🔭 I’m currently working on **Manual Testing, API Testing and Performance Testing**
+  - 🌱 I’m currently learning **Database Testing, Web Automation and Mobile App Automation**
+  - 💬 Ask me about **Manual Testing, API Testing and Performnace Testing**
 
   
 
