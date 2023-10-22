@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=farhadcse38&label=Profile%20views&color=0e75b6&style=flat" alt="farhadcse38" /> </p>
 
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Farhad+Hossain" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=30&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Farhad+Hossain" /></h1>
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=261623E3&random=false&width=435&lines=I+am+a+Passionate+SQA+Engineer)](/)
 
