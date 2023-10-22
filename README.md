@@ -5,6 +5,7 @@
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=261623E3&random=false&width=435&lines=I+am+a+Passionate+SQA+Engineer)](/)
 
+### 📝 &nbsp; About Me: 
 ### Tools:
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
 ![Apache JMeter Badge](https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat-square)
