@@ -1,5 +1,5 @@
 
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w3YWRzeGZ2Nnd3dnE4ajkyZTQ1cDdkYWxhaXdlcHRvYWJjMGhpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+![MasterHead](https://developers.cemexgo.com/content/overview-welcome.gif)
 <!--![MasterHead](https://mudrainfotec.com/static/media/testing.4e35d41a.gif)-->
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=farhadcse38&label=Profile%20views&color=0e75b6&style=flat" alt="farhadcse38" /> </p>
