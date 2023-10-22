@@ -5,27 +5,21 @@
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=261623E3&random=false&width=435&lines=I+am+a+Passionate+SQA+Engineer)](/)
 
-### 📝 About Me: 
+### 📝 About Me:
+- I have completed my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Business and Technology (BUBT). I would like to pursue my career as an SQA engineer. Looking for such a software company that offers me a stable and positive atmosphere and inspires me to enhance and therefore to innovate the work culture for the betterment of all parties concerned. I want to see the reflection of my knowledge through SQA career. 
 ### 🔧 Tools:
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
 ![Apache JMeter Badge](https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat-square)
 ![Jira Software Badge](https://img.shields.io/badge/Jira%20Software-0052CC?logo=jirasoftware&logoColor=fff&style=flat-square)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
-  <!--
-**farhadcse38/farhadcse38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Manual Testing, API Testing and Performance Testing
+- 🌱 I’m currently learning Database Testing, Web Automation and Mobile Automation
+- 💬 Ask me about Manual Testing, API Testing and Performace Testing
+
+  
 
 
   <!--
@@ -36,7 +30,7 @@ Here are some ideas to get you started:
 
  <br/>
  
-### GitHub Stats:
+### 📈 GitHub Stats:
 <!-- github stats starts here  -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats)
