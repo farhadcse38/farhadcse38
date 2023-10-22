@@ -6,7 +6,8 @@
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=261623E3&random=false&width=435&lines=I+am+a+Passionate+SQA+Engineer)](/)
 
 ### 📝 About Me:
-I have completed my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Business and Technology (BUBT). I would like to pursue my career as an SQA engineer. Looking for such a software company that offers me a stable and positive atmosphere and inspires me to enhance and therefore to innovate the work culture for the betterment of all parties concerned. I want to see the reflection of my knowledge through SQA career. 
+I have completed my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Business and Technology (BUBT). I would like to pursue my career as an SQA engineer. Looking for such a software company that offers me a stable and positive atmosphere and inspires me to enhance and therefore to innovate the work culture for the betterment of all parties concerned. I want to see the reflection of my knowledge through SQA career.
+
 ### 🔧 Tools:
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
 ![Apache JMeter Badge](https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat-square)
@@ -33,10 +34,11 @@ I have completed my Bachelor's degree in Computer Science and Engineering from B
 
 
 ### 📈 GitHub Stats:
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats)
-         <!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats) -->
 
-    ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadcse38&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadcse38&show_icons=true)
 
 <br/>
 
