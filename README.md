@@ -3,7 +3,7 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=30&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Farhad+Hossain" /></h1>
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=261623E3&random=true&width=350&lines=I+am+a+Passionate+SQA+Engineer)](/)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=261623E3&random=true&width=400&lines=I+am+a+Passionate+SQA+Engineer)](/)
 
 ### 📝 About Me:
 I have completed my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Business and Technology (BUBT). I would like to pursue my career as an SQA engineer. Looking for such a software company that offers me a stable and positive atmosphere and inspires me to enhance and therefore to innovate the work culture for the betterment of all parties concerned. I want to see the reflection of my knowledge through SQA career.
