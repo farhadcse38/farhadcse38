@@ -13,7 +13,7 @@ I have completed my Bachelor's degree in Computer Science and Engineering from B
 ![Jira Software Badge](https://img.shields.io/badge/Jira%20Software-0052CC?logo=jirasoftware&logoColor=fff&style=flat-square)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
-
+</br>
 
 - 🔭 I’m currently working on Manual Testing, API Testing and Performance Testing
 - 🌱 I’m currently learning Database Testing, Web Automation and Mobile Automation
@@ -29,19 +29,19 @@ I have completed my Bachelor's degree in Computer Science and Engineering from B
 -->
  
  
- 
- 
- 
+
+
+
 ### 📈 GitHub Stats:
    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats) -->
+    <!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadcse38)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadcse38&show_icons=true)
+    ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadcse38&show_icons=true)
 
-<br/>
+  <br/>
 
 ---
 
