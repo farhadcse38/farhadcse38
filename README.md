@@ -53,7 +53,6 @@ I have completed my Bachelor's degree in Computer Science and Engineering from B
 
 
 ---
-#### ![image](https://github.com/farhadcse38/farhadcse38/assets/107008267/7851d3b7-7fbd-45b5-8d04-5013eb01dbdb)
 <h3 align="center">Connect with Me</h3>
 ---
 
