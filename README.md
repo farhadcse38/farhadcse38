@@ -15,20 +15,19 @@
 ### 📝 About Me:
 I have completed my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Business and Technology (BUBT). I would like to pursue my career as an SQA engineer. Looking for such a software company that offers me a stable and positive atmosphere and inspires me to enhance and therefore to innovate the work culture for the betterment of all parties concerned. I want to see the reflection of my knowledge through SQA career.
 
-### 🔧 Tools:
-![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
-![Apache JMeter Badge](https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat-square)
-![Jira Software Badge](https://img.shields.io/badge/Jira%20Software-0052CC?logo=jirasoftware&logoColor=fff&style=flat-square)
-![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=flat-square)
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
- </br>
-
-
   - 🔭 I’m currently working on **Manual Testing, API Testing and Performance Testing**
   - 🌱 I’m currently learning **Database Testing, Web Automation and Mobile App Automation**
   - 💬 Ask me about **Manual Testing, API Testing and Performnace Testing**
 
+### 🔧 Tools:
+![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
+![Apache JMeter Badge](https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat-square)
+![Jira Software Badge](https://img.shields.io/badge/Jira%20Software-0052CC?logo=jirasoftware&logoColor=fff&style=flat-square)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
+![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=flat-square)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
+ </br>
   
 
 
