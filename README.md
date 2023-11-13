@@ -53,7 +53,7 @@ I have completed my Bachelor's degree in Computer Science and Engineering from B
 
 
 ---
-<h3 align="center">Connect with Me</h3>
+  <h3 align="center">Connect with Me</h3>
 ---
 
 <p align="center">
