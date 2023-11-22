@@ -55,7 +55,7 @@ I have completed my Bachelor's degree in Computer Science and Engineering from B
 
 ---
 
-C:\Users\HP\Downloads\9104220_link_permalink_chain_hyperlink_connect_icon.png<h3 align="center">Connect with Me</h3>
+(https://drive.google.com/file/d/14i3JbXzkAylbT8kGdl2Uspk-0Uk-dQW8/view?usp=sharing)<h3 align="center">Connect with Me</h3>
 
 ---
 
