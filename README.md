@@ -55,7 +55,7 @@ I have completed my Bachelor's degree in Computer Science and Engineering from B
 
 ---
 
-<a href="https://drive.google.com/file/d/14i3JbXzkAylbT8kGdl2Uspk-0Uk-dQW8/view?usp=sharing"><h3 align="center">Connect with Me</h3></a>
+<a href="https://drive.google.com/file/d/14i3JbXzkAylbT8kGdl2Uspk-0Uk-dQW8/view?usp=sharing"></a><h3 align="center">Connect with Me</h3>
 
 ---
 
