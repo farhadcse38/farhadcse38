@@ -13,7 +13,7 @@
 
 
 ### 📝 About Me:
-Currently, I am working as an SQA Engineer Intern at Mysoftheaven (BD) LTD. I have completed my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Business and Technology (BUBT). I would like to pursue my career as an SQA engineer. Looking for such a software company that offers me a stable and positive atmosphere and inspires me to enhance and therefore to innovate the work culture for the betterment of all parties concerned. I want to see the reflection of my knowledge through SQA career.
+Currently, I am working as an SQA Engineer at Mysoftheaven (BD) LTD. I have completed my Bachelor's degree in Computer Science and Engineering from Bangladesh University of Business and Technology (BUBT). I would like to pursue my career as an SQA engineer. Looking for such a software company that offers me a stable and positive atmosphere and inspires me to enhance and therefore to innovate the work culture for the betterment of all parties concerned. I want to see the reflection of my knowledge through SQA career.
 
   - 🔭 I’m currently working on **Manual Testing, API Testing and Performance Testing**
   - 🌱 I’m currently learning **Database Testing, Web Automation and Mobile App Automation**
